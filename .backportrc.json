@@ -1,5 +1,5 @@
 {
-	"repoOwner": "agritheory",
+	"repoOwner": "MyuddinKhatri",
 	"repoName": "cloud_storage",
 	"targetBranchChoices": [
 		"version-14",
@@ -8,6 +8,6 @@
 	"autoMerge": true,
 	"autoMergeMethod": "squash",
 	"branchLabelMapping": {
-		"^auto-backport-to-(.+)$": "$1"
+		"^backport-to-(.+)$": "$1"
 	}
 }
